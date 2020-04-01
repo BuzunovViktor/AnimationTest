@@ -1,1 +1,0 @@
-java --module-path lib/ --add-modules=javafx.controls,javafx.fxml -jar cars-1.0-jar-with-dependencies.jar
